@@ -15,6 +15,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
+<h3>Where to find me</h3>
 <!--
 **JackCT1/JackCT1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
