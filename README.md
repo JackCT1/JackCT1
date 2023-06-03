@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<p>Welcome to my page! </br> I'm Jack, I'm a Junior Software and Data Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
