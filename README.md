@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Engineer;Software+Engineer)](https://git.io/typing-svg)
 <p>Welcome to my page! </br> I'm Jack, I'm a Junior Software and Data Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/></p>
 <hr>
 <h3>Tech Stack</h3>
